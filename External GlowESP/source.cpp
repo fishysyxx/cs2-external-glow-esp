@@ -32,8 +32,8 @@ void SetConsoleContent(bool isMemory, bool client) {
     system("mode con cols=40 lines=13");
 
     cout << "[ABOUT]" << endl;
-    cout << "1: getox706" << endl;
-    cout << "2: unknowncheats.me" << endl << endl;
+    cout << "1: fishysyxx" << endl;
+    cout << "2: update offsets from https://github.com/a2x/cs2-dumper/blob/main/output/offsets.hpp" << endl << endl;
     cout << "[HOW TO USE]" << endl;
     cout << "1: run cs2.exe" << endl;
     cout << "2: run cheat.exe" << endl << endl;
